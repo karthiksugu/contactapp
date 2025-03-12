@@ -1,0 +1,3381 @@
+{
+    "content": [
+      {
+        "badge": null,
+        "product_id": "434df484-d90c-4647-a6f4-d7c7fc3ee951",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Arabic Bread",
+        "parent_category_id": "Breads",
+        "group_id": "434df484-d90c-4647-a6f4-d7c7fc3ee951",
+        "product_name": "kuboos (1 PC)",
+        "rating": 5,
+        "merchant_description": null,
+        "total_reviews": 1,
+        "label": "kuboos",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Meticulously crafted with the finest quality ingredients, Golden Harvest Kuboos embodies the essence of authenticity. ",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES599753399-4f565a82-bfe5-4fbc-bc6c-9c6aa36a3a92.jpeg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": [],
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "180"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": [
+          {
+            "depth": 1,
+            "parent_name": "Arabic bread",
+            "parent_id": "Arabic Bread"
+          },
+          {
+            "depth": 0,
+            "parent_name": "Breads",
+            "parent_id": "Breads"
+          }
+        ],
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "434df484-d90c-4647-a6f4-d7c7fc3ee951shopvrv8u9z35q",
+            "price": 15.88,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999909,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "434df484-d90c-4647-a6f4-d7c7fc3ee951shopvrv8u9z35q",
+            "price": 15.88,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999909,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2024-01-17T06:45:14",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": "8.5646937",
+        "merchant_longitude": "76.881773",
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "10:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "10:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "10:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "10:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "10:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "10:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "10:00 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "f07313a1-bd93-4531-a56b-86b25f76c0cb",
+        "updated_at": "2024-08-03T07:07:21",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "434df484-d90c-4647-a6f4-d7c7fc3ee951",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Arabic bread",
+        "parent_category_name": "Breads",
+        "whatsapp_product_name": "kuboos (1 PC)",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 15.88,
+        "available_stock": 4999909,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 0,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "48db7981-1da7-4f02-9a73-455df3986a9e",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Indian Bread",
+        "parent_category_id": "Breads",
+        "group_id": "48db7981-1da7-4f02-9a73-455df3986a9e",
+        "product_name": "poratta",
+        "rating": 4,
+        "merchant_description": null,
+        "total_reviews": 5,
+        "label": "Poratta",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "crafted with fine flour ",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES599312071-e12af07f-69f7-45ef-abd6-c4879b51f3d7.jpg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": [],
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "180"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": [
+          {
+            "depth": 1,
+            "parent_name": "Indian bread",
+            "parent_id": "Indian Bread"
+          },
+          {
+            "depth": 0,
+            "parent_name": "Breads",
+            "parent_id": "Breads"
+          }
+        ],
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "48db7981-1da7-4f02-9a73-455df3986a9eshopvrv8u9z35q",
+            "price": 15.88,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999563,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "48db7981-1da7-4f02-9a73-455df3986a9eshopvrv8u9z35q",
+            "price": 15.88,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999563,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2024-01-17T06:38:07",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": "8.5646937",
+        "merchant_longitude": "76.881773",
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "f07313a1-bd93-4531-a56b-86b25f76c0cb",
+        "updated_at": "2024-08-03T07:08:23",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "48db7981-1da7-4f02-9a73-455df3986a9e",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Indian bread",
+        "parent_category_name": "Breads",
+        "whatsapp_product_name": "poratta",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 15.88,
+        "available_stock": 4999563,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 0,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "2eadb8ea-2b55-4e74-9999-c53389f87157",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Indian Rice",
+        "parent_category_id": "Rice",
+        "group_id": "2eadb8ea-2b55-4e74-9999-c53389f87157",
+        "product_name": "neychoru",
+        "rating": 0,
+        "merchant_description": null,
+        "total_reviews": 0,
+        "label": "Neychoru",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Introducing Neychoru, a culinary masterpiece crafted to bring the soulful essence of traditional South Asian cuisine to your dining table.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES1731530594-b54f194d-ea17-420a-8175-2593411760ad.jpg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": [],
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": [
+          {
+            "depth": 1,
+            "parent_name": "Indian rice",
+            "parent_id": "Indian Rice"
+          },
+          {
+            "depth": 0,
+            "parent_name": "Rice",
+            "parent_id": "Rice"
+          }
+        ],
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "2eadb8ea-2b55-4e74-9999-c53389f87157shopvrv8u9z35q",
+            "price": 85.24,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999941,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 72.454
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "2eadb8ea-2b55-4e74-9999-c53389f87157shopvrv8u9z35q",
+            "price": 85.24,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999941,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 72.454
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T16:06:12",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": "8.5646937",
+        "merchant_longitude": "76.881773",
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": false,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-20T10:16:26",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "2eadb8ea-2b55-4e74-9999-c53389f87157",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Indian rice",
+        "parent_category_name": "Rice",
+        "whatsapp_product_name": "neychoru",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 85.24,
+        "available_stock": 4999941,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 1,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "ad96edde-2bb7-4a16-922f-e31b6e8c1ea8",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Beef Biriyani",
+        "parent_category_id": "Biriyani",
+        "group_id": "ad96edde-2bb7-4a16-922f-e31b6e8c1ea8",
+        "product_name": "beef biriyani",
+        "rating": 5,
+        "merchant_description": null,
+        "total_reviews": 1,
+        "label": "Beef Biriyani",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": " a culinary masterpiece that promises to transport your taste buds on a flavorful journey! Crafted with care and expertise, our Beef Biryani is the epitome of rich, aromatic, and mouthwatering perfection.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES1730769616-c2e506fb-4975-4598-94d6-9d12e19313e7.webp"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": [],
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": [
+          {
+            "depth": 1,
+            "parent_name": "Beef biriyani",
+            "parent_id": "Beef Biriyani"
+          },
+          {
+            "depth": 0,
+            "parent_name": "Biriyani",
+            "parent_id": "Biriyani"
+          }
+        ],
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "ad96edde-2bb7-4a16-922f-e31b6e8c1ea8shopvrv8u9z35q",
+            "price": 170.47,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999914,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "ad96edde-2bb7-4a16-922f-e31b6e8c1ea8shopvrv8u9z35q",
+            "price": 170.47,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999914,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T15:52:04",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": "8.5646937",
+        "merchant_longitude": "76.881773",
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": false,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "f07313a1-bd93-4531-a56b-86b25f76c0cb",
+        "updated_at": "2024-08-03T07:04:13",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "ad96edde-2bb7-4a16-922f-e31b6e8c1ea8",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Beef biriyani",
+        "parent_category_name": "Biriyani",
+        "whatsapp_product_name": "beef biriyani",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 170.47,
+        "available_stock": 4999914,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 0,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "0b8ba015-3c8d-4353-bc3f-ff581a211d73",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Chicken Mandi",
+        "parent_category_id": "Mandi",
+        "group_id": "0b8ba015-3c8d-4353-bc3f-ff581a211d73",
+        "product_name": "al faham mandi",
+        "rating": 0,
+        "merchant_description": null,
+        "total_reviews": 0,
+        "label": "AL Faham Mandi",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Elevate your grilling experience with our Al Faham Grill Master Kit, a premium selection of spices and tools designed to bring the authentic flavors of Al Faham cuisine right to your backyard. Inspired by the rich culinary traditions of the Middle East, our kit is meticulously crafted to ensure you achieve mouthwatering results every time you fire up the grill.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES1713674722-65e2aa9f-e4e2-4829-a5a8-1086820e40cd.jpeg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": null,
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": null,
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "0b8ba015-3c8d-4353-bc3f-ff581a211d73shopvrv8u9z35q",
+            "price": 256.47,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 218
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "0b8ba015-3c8d-4353-bc3f-ff581a211d73shopvrv8u9z35q",
+            "price": 256.47,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 218
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T11:15:02",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": null,
+        "merchant_longitude": null,
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-26T11:36:25",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "0b8ba015-3c8d-4353-bc3f-ff581a211d73",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Chicken mandi",
+        "parent_category_name": "Mandi",
+        "whatsapp_product_name": "al faham mandi",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 256.47,
+        "available_stock": 5000000,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 1,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "01b75391-b729-4b69-b436-3b48a430407b",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Chicken Mandi",
+        "parent_category_id": "Mandi",
+        "group_id": "01b75391-b729-4b69-b436-3b48a430407b",
+        "product_name": "chicken mandi",
+        "rating": 0,
+        "merchant_description": null,
+        "total_reviews": 0,
+        "label": "Chicken Mandi",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Our Chicken Mandhi is more than just a meal; it's an experience that transports your taste buds to the heart of traditional Arabian cuisine.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES-1346842128-3e37fd2e-4a4b-430b-a7aa-6b8639f55e36.png"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": null,
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": null,
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "01b75391-b729-4b69-b436-3b48a430407bshopvrv8u9z35q",
+            "price": 231.76,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 196.996
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "01b75391-b729-4b69-b436-3b48a430407bshopvrv8u9z35q",
+            "price": 231.76,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 196.996
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T10:56:44",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": null,
+        "merchant_longitude": null,
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-30T07:15:06",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "01b75391-b729-4b69-b436-3b48a430407b",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Chicken mandi",
+        "parent_category_name": "Mandi",
+        "whatsapp_product_name": "chicken mandi",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 231.76,
+        "available_stock": 5000000,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 1,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "f1f7ccd2-09aa-433a-b329-d6835d52db08",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Egg Biriyani",
+        "parent_category_id": "Biriyani",
+        "group_id": "f1f7ccd2-09aa-433a-b329-d6835d52db08",
+        "product_name": "egg biriyani",
+        "rating": 0,
+        "merchant_description": null,
+        "total_reviews": 0,
+        "label": "Egg biriyani",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Sourced from the foothills of the Himalayas, our Basmati rice is known for its long grains, aromatic fragrance, and fluffy texture. Each bite is a celebration of authenticity and quality.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES-1098042937-6e3fd026-2a5b-4d7f-a8c6-819354216376.jpg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": [],
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "egg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": [
+          {
+            "depth": 1,
+            "parent_name": "Egg biriyani",
+            "parent_id": "Egg Biriyani"
+          },
+          {
+            "depth": 0,
+            "parent_name": "Biriyani",
+            "parent_id": "Biriyani"
+          }
+        ],
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "f1f7ccd2-09aa-433a-b329-d6835d52db08shopvrv8u9z35q",
+            "price": 146.12,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999757,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 124.202
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "f1f7ccd2-09aa-433a-b329-d6835d52db08shopvrv8u9z35q",
+            "price": 146.12,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999757,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 124.202
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T16:02:03",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": "8.5646937",
+        "merchant_longitude": "76.881773",
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "02:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "02:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "02:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "02:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "02:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "02:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "02:30 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": false,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-20T10:16:09",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "f1f7ccd2-09aa-433a-b329-d6835d52db08",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Egg biriyani",
+        "parent_category_name": "Biriyani",
+        "whatsapp_product_name": "egg biriyani",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 146.12,
+        "available_stock": 4999757,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 1,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "614bf38f-afd5-40fe-94b3-ec64c6608080",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Chicken Main Course",
+        "parent_category_id": "Main Course",
+        "group_id": "614bf38f-afd5-40fe-94b3-ec64c6608080",
+        "product_name": "chicken fry",
+        "rating": 0,
+        "merchant_description": null,
+        "total_reviews": 0,
+        "label": "Chicken Fry",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Our Chicken Fry starts with the finest cuts of chicken, ensuring that you get nothing but the best. We source our poultry from trusted farms, guaranteeing a product that is free from antibiotics and raised with the highest standards of care.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES1729920981-1711b535-4242-4ea3-95b2-d5b5e27783d2chicken fry full"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": null,
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": null,
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "614bf38f-afd5-40fe-94b3-ec64c6608080shopvrv8u9z35q",
+            "price": 121.76,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 103.496
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "614bf38f-afd5-40fe-94b3-ec64c6608080shopvrv8u9z35q",
+            "price": 121.76,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 103.496
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T15:38:34",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": null,
+        "merchant_longitude": null,
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-27T11:27:13",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "614bf38f-afd5-40fe-94b3-ec64c6608080",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Chicken main course",
+        "parent_category_name": "Main course",
+        "whatsapp_product_name": "chicken fry",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 121.76,
+        "available_stock": 5000000,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 0,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "b4411052-56a0-46da-a2f6-7b9c714286ec",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Mandi Rice",
+        "parent_category_id": "Mandi",
+        "group_id": "b4411052-56a0-46da-a2f6-7b9c714286ec",
+        "product_name": "mandi rice",
+        "rating": 5,
+        "merchant_description": null,
+        "total_reviews": 1,
+        "label": "Mandi Rice",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Mandi Rice is synonymous with excellence. Grown in nutrient-rich soils and harvested at the peak of perfection, our rice guarantees a premium quality that surpasses industry standards.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES1714872051-f97ec37d-d1cf-40c4-886e-222811667148.jpg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": null,
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": null,
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "b4411052-56a0-46da-a2f6-7b9c714286ecshopvrv8u9z35q",
+            "price": 121.76,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999920,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "b4411052-56a0-46da-a2f6-7b9c714286ecshopvrv8u9z35q",
+            "price": 121.76,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999920,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T11:28:30",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": null,
+        "merchant_longitude": null,
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "f07313a1-bd93-4531-a56b-86b25f76c0cb",
+        "updated_at": "2024-08-03T07:01:09",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "b4411052-56a0-46da-a2f6-7b9c714286ec",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Mandi rice",
+        "parent_category_name": "Mandi",
+        "whatsapp_product_name": "mandi rice",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 121.76,
+        "available_stock": 4999920,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 0,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "5d9ab55b-edbe-4eb2-8b47-64371101fad4",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Chicken Main Course",
+        "parent_category_id": "Main Course",
+        "group_id": "5d9ab55b-edbe-4eb2-8b47-64371101fad4",
+        "product_name": "chicken roast",
+        "rating": 0,
+        "merchant_description": null,
+        "total_reviews": 0,
+        "label": "Chicken Roast",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": " A culinary masterpiece that transforms every meal into a memorable experience.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES1730206514-3cc53639-897b-48c1-b9ee-887bbb6230b5.jpg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": null,
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": null,
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "5d9ab55b-edbe-4eb2-8b47-64371101fad4shopvrv8u9z35q",
+            "price": 194.82,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "5d9ab55b-edbe-4eb2-8b47-64371101fad4shopvrv8u9z35q",
+            "price": 194.82,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": null
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T15:44:14",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": null,
+        "merchant_longitude": null,
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "f07313a1-bd93-4531-a56b-86b25f76c0cb",
+        "updated_at": "2024-08-03T07:06:46",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "5d9ab55b-edbe-4eb2-8b47-64371101fad4",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Chicken main course",
+        "parent_category_name": "Main course",
+        "whatsapp_product_name": "chicken roast",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 194.82,
+        "available_stock": 5000000,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 0,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "7d2d5c4e-54ed-4307-9bbd-c7c5feeee627",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Chicken Mandi",
+        "parent_category_id": "Mandi",
+        "group_id": "7d2d5c4e-54ed-4307-9bbd-c7c5feeee627",
+        "product_name": "peri peri al faham mandi",
+        "rating": 0,
+        "merchant_description": null,
+        "total_reviews": 0,
+        "label": "Peri Peri Al Faham mandi",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Peri Peri Mandhi is a harmonious blend of fiery peri peri peppers and a symphony of carefully selected spices. This combination creates a perfect balance between heat and flavor, ensuring that each bite is a thrilling experience for your taste buds.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES-1092223714-b5efa30e-2f55-49ee-8450-673ec86064ab.jpg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": null,
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": null,
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "7d2d5c4e-54ed-4307-9bbd-c7c5feeee627shopvrv8u9z35q",
+            "price": 281.18,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 239
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "7d2d5c4e-54ed-4307-9bbd-c7c5feeee627shopvrv8u9z35q",
+            "price": 281.18,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 239
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T11:19:13",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": null,
+        "merchant_longitude": null,
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-26T11:36:07",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "7d2d5c4e-54ed-4307-9bbd-c7c5feeee627",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Chicken mandi",
+        "parent_category_name": "Mandi",
+        "whatsapp_product_name": "peri peri al faham mandi",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 281.18,
+        "available_stock": 5000000,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 0,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "87fe8943-c9a2-466f-b1e8-5c82403a9f02",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Arabic Chicken",
+        "parent_category_id": "Arabic",
+        "group_id": "87fe8943-c9a2-466f-b1e8-5c82403a9f02",
+        "product_name": "al faham",
+        "rating": 0,
+        "merchant_description": null,
+        "total_reviews": 0,
+        "label": "Al Faham",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Our commitment to quality, authenticity, and innovation sets us apart, making Alfahm Chicken a brand you can trust to deliver an exceptional dining experience every time.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES1711977013-f26461f6-008e-4d5f-8181-d0ad27b50f9c.png"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": null,
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": null,
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "87fe8943-c9a2-466f-b1e8-5c82403a9f02shopvrv8u9z35q",
+            "price": 158.82,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 135
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "87fe8943-c9a2-466f-b1e8-5c82403a9f02shopvrv8u9z35q",
+            "price": 158.82,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 135
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T10:40:07",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": null,
+        "merchant_longitude": null,
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-27T11:27:53",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "87fe8943-c9a2-466f-b1e8-5c82403a9f02",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Arabic chicken",
+        "parent_category_name": "Arabic",
+        "whatsapp_product_name": "al faham",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 158.82,
+        "available_stock": 5000000,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 0,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "7ae67d63-bb10-4ef7-9562-9e73e895556d",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Beef Main Course",
+        "parent_category_id": "Main Course",
+        "group_id": "7ae67d63-bb10-4ef7-9562-9e73e895556d",
+        "product_name": "beef roast",
+        "rating": 5,
+        "merchant_description": null,
+        "total_reviews": 2,
+        "label": "Beef Roast",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "mmerse yourself in the bold and aromatic spices that define Kerala's culinary identity. Our beef roast is marinated with a perfect blend of black pepper, coriander, turmeric, and other handpicked spices to create a harmonious symphony of flavors that dance on your palate.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES1740236359-f97dae41-3ea0-43a3-87d2-f0036b217325.jpg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": null,
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": null,
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "7ae67d63-bb10-4ef7-9562-9e73e895556dshopvrv8u9z35q",
+            "price": 158.29,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999919,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 134.546
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "7ae67d63-bb10-4ef7-9562-9e73e895556dshopvrv8u9z35q",
+            "price": 158.29,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999919,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 134.546
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T15:47:12",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": null,
+        "merchant_longitude": null,
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:00 PM",
+                "to": "11:00 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-20T10:34:30",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "7ae67d63-bb10-4ef7-9562-9e73e895556d",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Beef main course",
+        "parent_category_name": "Main course",
+        "whatsapp_product_name": "beef roast",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 158.29,
+        "available_stock": 4999919,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 1,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "5b34554f-c3db-4fc9-9c3f-c63a71a1d6ba",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Chicken Biriyani",
+        "parent_category_id": "Biriyani",
+        "group_id": "5b34554f-c3db-4fc9-9c3f-c63a71a1d6ba",
+        "product_name": "chicken biriyani",
+        "rating": 5,
+        "merchant_description": null,
+        "total_reviews": 2,
+        "label": "chicken biriyani",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Treat your senses to the extraordinary with our Chicken Biryani – an exquisite dish that combines tradition, flavor, and convenience. Elevate your dining experience and savor the taste of India with every bite.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES-244416527-2fa86a18-b1f3-44d9-b4d2-9f222c94184d.jpg"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": [],
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": [
+          {
+            "depth": 1,
+            "parent_name": "Chicken biriyani",
+            "parent_id": "Chicken Biriyani"
+          },
+          {
+            "depth": 0,
+            "parent_name": "Biriyani",
+            "parent_id": "Biriyani"
+          }
+        ],
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "5b34554f-c3db-4fc9-9c3f-c63a71a1d6bashopvrv8u9z35q",
+            "price": 194.82,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999915,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 165.597
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "5b34554f-c3db-4fc9-9c3f-c63a71a1d6bashopvrv8u9z35q",
+            "price": 194.82,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 4999915,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 165.597
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-11-03T11:19:38",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": "8.5646937",
+        "merchant_longitude": "76.881773",
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "03:30 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": false,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-20T10:15:30",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "5b34554f-c3db-4fc9-9c3f-c63a71a1d6ba",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Chicken biriyani",
+        "parent_category_name": "Biriyani",
+        "whatsapp_product_name": "chicken biriyani",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 194.82,
+        "available_stock": 4999915,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 1,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      },
+      {
+        "badge": null,
+        "product_id": "b695c18a-52e0-417f-9812-2c3903d84b40",
+        "merchant_id": "merg02q2u1ykq",
+        "product_category_id": "Arabic Chicken",
+        "parent_category_id": "Arabic",
+        "group_id": "b695c18a-52e0-417f-9812-2c3903d84b40",
+        "product_name": "peri peri al faham",
+        "rating": 0,
+        "merchant_description": null,
+        "total_reviews": 0,
+        "label": "Peri peri AL Faham",
+        "model_code": null,
+        "tag_code": null,
+        "review": null,
+        "record_status": 1,
+        "brand": null,
+        "business_area": "foodPlanet",
+        "product_details": {
+          "description": "Our Peri-Peri Alfaham is not for the faint of heart! The bold and robust peri-peri spices will transport you to a world of culinary excitement. The spice profile is carefully balanced to deliver a kick without overpowering the natural flavors of the alfaham, ensuring a harmonious taste experience.",
+          "short_description": null,
+          "details": null,
+          "images": [
+            "https://dz15arqqgpmhm.cloudfront.net/msb/PRODUCT_IMAGES1712434192-473b5d8a-518b-478f-b127-6ab827c4c61a.webp"
+          ],
+          "toppings": null,
+          "product_category_description": null,
+          "product_type": null,
+          "last_order_date": null,
+          "method_of_use": null,
+          "serving_per_bag": 0,
+          "serving_size": 0,
+          "additional_images": [],
+          "health_benefits": null,
+          "typical_kerala_dishes": null,
+          "taste_and_textures": null,
+          "type_of_fish": null,
+          "unit": "l",
+          "measure": null,
+          "metric": null,
+          "number_of_pieces": null
+        },
+        "product_specification": null,
+        "variants": null,
+        "custom_attributes_list": [
+          {
+            "name": "productType",
+            "description": "non_veg"
+          },
+          {
+            "name": "expiryTime",
+            "description": "120"
+          }
+        ],
+        "gst": 5,
+        "weight": 250,
+        "parents": null,
+        "inventories": {
+          "shopvrv8u9z35q": {
+            "product_vendor_id": "b695c18a-52e0-417f-9812-2c3903d84b40shopvrv8u9z35q",
+            "price": 170.47,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 144.9
+          }
+        },
+        "vendors": null,
+        "available_countries": [],
+        "vendor_product_inventories": [
+          {
+            "product_vendor_id": "b695c18a-52e0-417f-9812-2c3903d84b40shopvrv8u9z35q",
+            "price": 170.47,
+            "retail_price": null,
+            "original_amount": null,
+            "reorder_level": 0,
+            "max_quantity": 0,
+            "available_stock": 5000000,
+            "vendor_id": "shopvrv8u9z35q",
+            "vendor_name": null,
+            "promotional_prices": null,
+            "sales_quantity": null,
+            "buy_more_payless_option": null,
+            "merchant_price": 144.9
+          }
+        ],
+        "vendor_IDs": [
+          "shopvrv8u9z35q"
+        ],
+        "is_offer_available": false,
+        "sales_quantity": 0,
+        "product_order_count": null,
+        "created_at": "2023-12-11T10:48:06",
+        "status": "APPROVED",
+        "score": 0,
+        "merchant_latitude": null,
+        "merchant_longitude": null,
+        "shop_name": null,
+        "uber_h3_index_3km": null,
+        "uber_h3_index_8km": null,
+        "uber_h3_index_22km": null,
+        "uber_h3_index_1km": null,
+        "uber_h3_index_170m": null,
+        "uber_h3_index_460m": null,
+        "product_timings": [
+          {
+            "day": "Sunday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Monday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "timings": [
+              {
+                "from": "12:30 PM",
+                "to": "11:59 PM"
+              }
+            ]
+          }
+        ],
+        "is_available": true,
+        "created_by": "merg02q2u1ykq",
+        "last_updated_by": "e36a061f-10fc-4e3a-9be9-817e9064fe8d",
+        "updated_at": "2024-08-27T11:27:43",
+        "search_rank": 50,
+        "out_of_stock": false,
+        "promotion_type": null,
+        "promotion_code": null,
+        "discount_description": null,
+        "shop_id": "shopvrv8u9z35q",
+        "base_product_id": "b695c18a-52e0-417f-9812-2c3903d84b40",
+        "display_stock": false,
+        "sub_planet": null,
+        "local_language_name": null,
+        "local_language_description": null,
+        "product_nutrition": null,
+        "category_name": "Arabic chicken",
+        "parent_category_name": "Arabic",
+        "whatsapp_product_name": "peri peri al faham",
+        "product_sku": null,
+        "product_sku_name": null,
+        "price": 170.47,
+        "available_stock": 5000000,
+        "validity": null,
+        "data_per_day": null,
+        "UL": null,
+        "others": null,
+        "product_type": null,
+        "product_rank": 0,
+        "is_favourite": false,
+        "is_currently_available": null,
+        "addon_products": null,
+        "is_notified": false,
+        "per_pc_measure": null,
+        "original_amount": null,
+        "weight_range": null,
+        "delivery_slot": null,
+        "batch_stock_list": null,
+        "retail_price": null,
+        "customer_segment_discount": null,
+        "customer_segment": null,
+        "customer_segment_image": null
+      }
+    ],
+    "pageable": {
+      "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+      },
+      "pageNumber": 0,
+      "pageSize": 500,
+      "offset": 0,
+      "paged": true,
+      "unpaged": false
+    },
+    "last": true,
+    "totalElements": 15,
+    "totalPages": 1,
+    "first": true,
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "numberOfElements": 15,
+    "size": 500,
+    "number": 0,
+    "empty": false
+  }
+  

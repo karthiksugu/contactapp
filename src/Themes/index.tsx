@@ -20,15 +20,13 @@ const ThemeContext = createContext<any>({});
 const lightTheme = {
   background: "#FFF",
   text: "#000",
+  textColor1:'#333132',
+  textColor2:'#707070',
+  backWhite:'##F8F8F8'
  
 };
 
-const darkTheme = {
-  background: "#000",
-  text: "#FFF",
-  
 
-};
 
 
 export default function ThemeContent ({children} :{children : any}){

@@ -3,8 +3,8 @@ import { PermissionsAndroid, Platform, Alert, Linking } from 'react-native';
 import { Provider } from 'react-redux';
 import { PaperProvider } from 'react-native-paper';
 import ThemeContent from './src/Themes';
-import StackNavigator from './src/Navigation/StackNavigator';
-import Store from './src/Redux/store';
+import StackNavigator from './src/Navigation/BottomTabs';
+import { store } from './src/Redux/store';
 import { check, request, PERMISSIONS, RESULTS } from 'react-native-permissions';
 
 function App(): JSX.Element {
@@ -69,11 +69,13 @@ function App(): JSX.Element {
   };
 
   return (
+    <Provider store={store}>
       <PaperProvider>
         <ThemeContent>
           <StackNavigator />
         </ThemeContent>
       </PaperProvider>
+      </Provider>
   );
 }
 
