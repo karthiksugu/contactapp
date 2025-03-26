@@ -1,14 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
-/* eslint-disable prettier/prettier */
-/* eslint-disable no-trailing-spaces */
-/* eslint-disable quotes */
-/* eslint-disable no-unused-vars */
-/* eslint-disable semi */
-/* eslint-disable eol-last */
-/* eslint-disable no-return-assign */
-/* eslint-disable keyword-spacing */
-/* eslint-disable react/self-closing-comp */
-/* eslint-disable prettier/prettier */
+
 
 
 import React, { useEffect, useState, useRef } from 'react';
@@ -38,10 +28,10 @@ const HomeScreen: React.FC<SplashScreenProps> = ({ navigation }) => {
   const filterHeads = ['Recommended', 'Breads', 'Juices', 'Salads']
 
   const handleAddToCart = (item) => {
-    const isItemInCart = cartItems.some(cartItem => cartItem.base_product_id === item.base_product_id);
+    const isItemInCart = cartItems.some(cartItem => cartItem.product_id === item.product_id);
   
     if (isItemInCart) {
-      Alert.alert("Item Already in Cart", "This item is already added to the cart.");
+      Alert.alert("Already in Cart");
     } else {
     dispatch(addToCart({ ...item, quantity: 1 }));
       Alert.alert("Item Added", "The item has been added to your cart.");
@@ -52,25 +42,15 @@ const HomeScreen: React.FC<SplashScreenProps> = ({ navigation }) => {
   const renderItem = (item) => {
     return (
       <View style={styles.card}>
-        <View style={styles.badge}>
-          <Text style={styles.badgeText}>Best Seller</Text>
-        </View>
 
-        <TouchableOpacity style={styles.heartIcon}>
-          <Icon name="heart" size={24} color="#008000" />
-        </TouchableOpacity>
 
         <Image
-          source={{ uri: item?.item?.product_details?.images[0] }} // Replace with your image URL
+          source={{ uri: item?.item?.image }} // Replace with your image URL
           style={styles.image}
         />
 
-        <View style={styles.customizable}>
-          <Icon name="sliders" size={16} color="#000" />
-          <Text style={styles.customizableText}>Customizable</Text>
-        </View>
 
-        <Text style={styles.title}>{item?.item?.label}</Text>
+        <Text style={styles.title}>{item?.item?.product_name}</Text>
 
         <View style={styles.rating}>
           <Text style={styles.ratingText}>4.3</Text>
@@ -78,7 +58,7 @@ const HomeScreen: React.FC<SplashScreenProps> = ({ navigation }) => {
         </View>
 
         <View style={styles.priceContainer}>
-          <Text style={styles.price}>₹{item?.item?.price}</Text>
+          <Text style={styles.price}>₹{item?.item?.product_price}</Text>
 
           <TouchableOpacity onPress={()=>handleAddToCart(item.item)} style={styles.plusButton}>
             <Text style={styles.plusButtonText}>+</Text>
@@ -96,85 +76,9 @@ const HomeScreen: React.FC<SplashScreenProps> = ({ navigation }) => {
       <StatusBar hidden={false} barStyle='light-content' backgroundColor={'transparent'} translucent={true} />
       <ScrollView style={[styles.safeAreaContainer, { backgroundColor: theme.backWhite }]}>
         <View style={styles.header}>
-          <Feather size={22} name='arrow-left' color={theme.textColor1} />
-          <Text style={[styles.headerText, { color: theme.textColor1 }]}>Arabian Delight Restaurant</Text>
+          <Text style={[styles.headerText, { color: theme.textColor1 }]}>Online Store</Text>
         </View>
 
-        <View style={[styles.cardView, { backgroundColor: theme.background }]}>
-          <View style={styles.cardView1}>
-            <View style={styles.mainImageView}>
-              <Image style={{ height: 80, width: 100, borderRadius: 20 }} source={{ uri: 'https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg' }} />
-            </View>
-            <View style={styles.mainDetailView}>
-              <Text style={[styles.restHead, { color: theme.textColor1 }]}>Arabian Delight Restaurant</Text>
-              <Text style={[styles.restHead1, { color: theme.textColor1 }]}>4.3  <Entypo size={22} name='star' color={'#FDCC0D'} />  ( 579 Reviews)</Text>
-              <Text style={[styles.restHead2, { color: theme.textColor2 }]}>North Indian, South Indian...</Text>
-              <Text style={[styles.restHead2, { color: theme.textColor2 }]}>Kazhakootam  |  2 km</Text>
-
-            </View>
-          </View>
-          <View style={{ flexDirection: 'row', paddingHorizontal: 10, justifyContent: 'space-between', alignItems: 'center' }}>
-            <Text style={[styles.restHead3, { color: theme.textColor1 }]}>
-              <MaterialCommunityIcons size={22} name='bicycle' color={theme.textColor1} /> Delivery in <Text style={[styles.restHead1, { color: theme.textColor1 }]}>30 mins |</Text> Free Delivery</Text>
-            <Text style={[styles.restHead3, { color: '#28AF4B', alignItems: 'center' }]}>Address Lane 1<Feather style={{ marginTop: 5 }} name={'chevron-down'} size={18} color={'#28AF4B'} />  </Text>
-
-          </View>
-
-        </View>
-
-
-        <Text style={[styles.Offertext, { color: theme.textColor1 }]}>Offers Available </Text>
-
-        <View style={[styles.offerCard, { backgroundColor: theme.background }]}>
-          <Image style={{ height: 50, width: 50 }} source={require('../../Components/Assets/coins.png')} />
-          <View style={{ flex: 1, flexWrap: 'wrap' }}>
-            <Text style={[styles.headerText, { color: theme.textColor1 }]}>35% Off  upto ₹ 180</Text>
-            <Text style={[styles.restHead1, { color: theme.textColor1, width: '100%', flexWrap: 'wrap' }]}>Use coupon code LILO for orders above ₹ 350</Text>
-
-          </View>
-
-        </View>
-
-
-        <View style={styles.Inputbox}>
-          <TextInput value={value}
-            onChangeText={(text) => setValue(text)}
-            placeholder='Search...'
-            placeholderTextColor={theme.textColor2}
-            style={{ color: theme.textColor1, fontSize: 20, width: '90%' }} />
-          <Feather name='search' color={theme.textColor1} size={20} />
-        </View>
-
-
-        <FlatList
-          data={filterHeads}
-          horizontal
-          style={{
-            height: height * 0.05, // Reduce height
-            marginBottom: 10
-          }}
-          contentContainerStyle={{
-            alignItems: 'center', // Align items within the reduced height
-            paddingVertical: 5,   // Adjust spacing if needed
-          }}
-          showsHorizontalScrollIndicator={false}
-          keyExtractor={(item, index) => index.toString()}
-          renderItem={({ item }) => (
-            <View
-              style={{
-                height: 40,
-                padding: 10,
-                borderRadius: 20,
-                backgroundColor: item === 'Recommended' ? '#D6EFDD' : '#F5F5F5',
-                marginRight: 10, // Space between items
-              }}
-            >
-              <Text style={{ fontSize: 16, fontWeight: '600', color: theme.textColor2 }}>
-                {item}
-              </Text>
-            </View>
-          )}
-        />
 
         <FlatList
           data={SampleData?.content}
@@ -217,8 +121,8 @@ const styles = StyleSheet.create({
   },
   header: {
     flexDirection: 'row',
-    gap: width * 0.156,
-    padding: 25,
+    gap: 20,
+    paddingVertical: 25,
   },
   headerText: {
     fontSize: 18,
